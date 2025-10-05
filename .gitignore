@@ -1,0 +1,52 @@
+# =========================
+# Python + PyInstaller Project
+# =========================
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / build folders
+build/
+dist/
+*.spec
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# PyInstaller specific
+# (These folders/files are created when building your EXE)
+*.manifest
+*.spec
+*.dll
+*.exe
+
+# Python egg info
+*.egg-info/
+.eggs/
+
+# Test / coverage files
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Local configuration files
+*.env
